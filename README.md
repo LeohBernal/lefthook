@@ -1,1 +1,1 @@
-Test
+Project to test the use of lefthook git hooks manager
